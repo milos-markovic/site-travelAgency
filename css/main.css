@@ -1,0 +1,34 @@
+.bg-dark{
+  opacity: 1;
+}
+.showcase{
+  background-image: url('../img/turizam.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+  background-position: center -220px;
+  background-attachment: fixed;
+}
+.darkDisplay{
+  background-color: black;
+  min-height: 600px;
+  opacity: 0.6;
+}
+.inlineShow{
+  padding-top: 160px;
+}
+.icon{
+  font-size: 20px;
+}
+.panorama{
+  width: 100%;
+  img-fluid;
+  border: 2px solid black;
+}
+#iskustva-korisnika{
+  margin-top: 80px;
+}
+.card-img-top{
+  width: 30%;
+  margin-top: -20%;
+}
